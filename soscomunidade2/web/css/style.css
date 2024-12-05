@@ -1,0 +1,17 @@
+#btn-menu {
+    float: right;
+    transform: translateY(-50px);
+}
+
+a{
+
+text-decoration: none;
+font-size: 24pt;
+cursor: pointer;
+}
+
+td {
+    
+    align-content: center;
+    
+}
